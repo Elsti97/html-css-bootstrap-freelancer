@@ -10,6 +10,12 @@
   width: 15rem;
 }
 
+.flex_stella{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .dividendo_stella{
   border: 2px solid;
   width: 5rem;
@@ -18,12 +24,6 @@
 .fa-star{
   font-size: 2rem;
   padding: 1rem;
-}
-
-.flex_stella{
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .img_100 {
