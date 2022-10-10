@@ -11,7 +11,7 @@
 }
 
 .dividendo_stella{
-  border: 2px solid white;
+  border: 2px solid;
   width: 5rem;
 }
 
@@ -24,4 +24,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.img_100 {
+  width: 100%;
 }
