@@ -5,3 +5,23 @@
 .bg_green {
   background-color: #30BC9C;
 }
+
+.img_15rem {
+  width: 15rem;
+}
+
+.dividendo_stella{
+  border: 2px solid white;
+  width: 5rem;
+}
+
+.fa-star{
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.flex_stella{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
