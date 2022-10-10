@@ -6,11 +6,15 @@
   background-color: #30BC9C;
 }
 
+.c_green {
+  color: #30BC9C
+}
+
 .img_15rem {
   width: 15rem;
 }
 
-.flex_stella{
+.flex_stella, .flex_icone{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,4 +32,17 @@
 
 .img_100 {
   width: 100%;
+}
+
+.bg_location{
+  background-color: #3A546E;
+}
+
+.fa-downloads{
+  padding-right: 0.5rem;
+}
+
+.socials {
+  width: 3rem;
+  height: 3rem;
 }
